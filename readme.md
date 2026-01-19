@@ -12,7 +12,6 @@ This repository contains a deep learning-based solution for classifying brain tu
   - [Requirements](#requirements)
   - [Training](#training)
   - [Evaluation](#evaluation)
-  - [Project Demo](#project-demo)
   - [Results](#results)
 
 ## Overview
@@ -52,16 +51,6 @@ The trained model is evaluated on a validation set, and the best-performing mode
 1. **Model Loading**: The pre-trained model is loaded automatically upon accessing the app.
 2. **Image Upload**: Users can upload MRI images directly to the app interface.
 3. **Prediction Display**: Once an image is uploaded, the app displays the predicted tumor type based on the model's classification.
-
-## Project Demo
-
-
-
-https://github.com/HalemoGPA/BrainMRI-Tumor-Classifier-Pytorch/assets/73307941/ed102d41-6084-4b88-ab92-07e532481ea9
-
-
-
-
 
 
 ## Results
